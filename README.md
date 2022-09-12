@@ -1,6 +1,6 @@
 # Car Feedback Project
 
-By opening this project, one can find the following buttons: _All Feedbacks_,_Add Feedback_,_Filter Feedbacks_.
+By opening this project, one can find the following buttons: _All Feedbacks_, _Add Feedback_, _Filter Feedbacks_.
 
 **All Feedbacks**
 -once a user adds feedback, the list of all available feedback can be seen by pressing this button.
