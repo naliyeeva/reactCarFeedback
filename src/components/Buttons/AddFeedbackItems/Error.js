@@ -14,7 +14,6 @@ const Error = () => {
     useEffect(() => {
         function handler(event) {
             if(!errorRef.current?.contains(event.target)) {
-                //doesn't work properly
                 setError(false);
             }
         }
