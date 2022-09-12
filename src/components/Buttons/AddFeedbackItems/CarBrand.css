@@ -1,0 +1,13 @@
+.cars-selection {
+    width: 100%;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 15px;
+    line-height: 1.5;
+    transition: border-color ease-in-out 0.15s;
+}
+
+.cars-selection:hover {
+    border-color: #3867d6;
+}

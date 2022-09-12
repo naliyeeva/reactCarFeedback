@@ -1,0 +1,9 @@
+.send-feedback-btn {
+    outline: none;
+    background-color: #273c75;
+    color: #f5f6fa;
+    font-size: 13px;
+    padding: 8px 15px;
+    border-radius: 2px;
+    border-color: #273c75;
+}

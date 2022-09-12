@@ -1,0 +1,22 @@
+.add-feedback-container {
+    background-color: #d1d8e0;
+    padding: 40px;
+    margin: 45px auto;
+}
+
+.labels-for-add-feedback {
+    font-weight: bold;
+}
+
+.add-feedback-item {
+    margin: 15px 0;
+}
+
+@media only screen and (min-width: 600px) {
+    .add-feedback-container {
+        margin: 45px -19px;
+        width: 28vw;
+        padding: 12px;
+    }
+}
+

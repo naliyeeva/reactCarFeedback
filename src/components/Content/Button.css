@@ -1,0 +1,20 @@
+.btn-options {
+    outline: none;
+    border: 1px solid #192a56;
+    /*border: transparent;*/
+    border-radius: 5px;
+    font-size: 22px;
+    width: 100%;
+    background-color: #f1f2f6;
+    margin: 5px;
+}
+
+.btn-icons {
+    font-size: 15px;
+    margin: 10px;
+}
+
+.btn-options:hover {
+    background-color: #192a56;
+    color: #f5f6fa;
+}

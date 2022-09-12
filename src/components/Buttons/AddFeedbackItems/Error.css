@@ -1,0 +1,47 @@
+.error-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.75);
+    display: flex;
+    justify-content: center;
+}
+
+.error-modal {
+    background-color: white;
+    position: fixed;
+    top: 30vh;
+    /*margin: auto;*/
+    /*left: 20%;*/
+    width: 50%;
+    z-index: 100;
+    overflow: hidden;
+}
+
+.error-heading {
+    background-color: #e84118;
+    color: #f5f6fa;
+    text-align: center;
+}
+
+.error-message-text {
+    text-align: center;
+    padding: 45px;
+}
+
+.error-close-btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.error-close-btn {
+    margin: 10px;
+    border-radius: 5px;
+    border: transparent;
+    padding: 5px 20px;
+    background-color: #e84118;
+    color: #f5f6fa;
+}

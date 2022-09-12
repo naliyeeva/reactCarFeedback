@@ -1,0 +1,31 @@
+.filter-options {
+    border: none;
+    border-radius: 5px;
+    background-color: #786fa6;
+    color: #f5f6fa;
+    padding: 5px 10px;
+    width: 100%;
+    margin: 3px;
+}
+
+.list-of-rates {
+    background-color: #dfe4ea;
+    width: 90%;
+    margin: auto 11px;
+    padding: 1px 5px;
+}
+
+.rate-item {
+    border: 2px solid #786fa6;
+    border-radius: 1px;
+    background-color: #f5f6fa;
+    text-align: center;
+    margin: 5px auto;
+    width: 70px;
+    cursor: pointer;
+}
+
+.rate-item:hover {
+    background-color: #786fa6;
+    color: #f5f6fa;
+}
